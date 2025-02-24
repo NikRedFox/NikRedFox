@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#2B193D&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Nikolas+Barbosa+dos+Santos+AKA+RedFox;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Nikolas+Barbosa+dos+Santos;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NikRedFox&show_icons=true&count_private=true&hide_border=true&title_color=#2B193D&icon_color=#2B193D&text_color=c9d1d9&bg_color=0d1117" alt="Nikolas 'RedFox' Barbosa github stats"/> 
