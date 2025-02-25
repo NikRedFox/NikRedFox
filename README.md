@@ -30,6 +30,7 @@
 ### Other Knowledge:
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Blender](https://img.shields.io/badge/-blender-0D1117?style=for-the-badge&logo=blender&labelColor=0D1117)&nbsp;
+![3D Animation](https://img.shields.io/badge/-3D_animation-0D1117?style=for-the-badge&logo=blender&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
