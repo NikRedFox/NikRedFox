@@ -36,7 +36,7 @@
   
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![ReactJS]()&nbsp;
+![ReactJS](https://img.shields.io/badge/-ReactJS-0D1117?style=for-the-badge&logo=ReactJS&labelColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
