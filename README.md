@@ -38,7 +38,7 @@
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![ReactJS](https://img.shields.io/badge/-ReactJS-0D1117?style=for-the-badge&logo=ReactJS&labelColor=0D1117)&nbsp;
-![React Native](https://img.shields.io/badge/-ReactJS-0D1117?style=for-the-badge&logo=ReactNative&labelColor=0D1117)&nbsp;
+![React Native](https://img.shields.io/badge/-ReactNative-0D1117?style=for-the-badge&logo=ReactNative&labelColor=0D1117)&nbsp;
 ![CSS Modules](https://img.shields.io/badge/-CSSModules-0D1117?style=for-the-badge&logo=CSSModules&labelColor=0D1117)&nbsp;
 
 <div align="center">
