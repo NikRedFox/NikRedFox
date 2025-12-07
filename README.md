@@ -16,7 +16,7 @@
 
  
 ### Main skills:
-![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=E3B779)
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -37,8 +37,8 @@
   
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![ReactJS](https://img.shields.io/badge/-ReactJS-0D1117?style=for-the-badge&logo=ReactJS&labelColor=0D1117)&nbsp;
-![React Native](https://img.shields.io/badge/-ReactNative-0D1117?style=for-the-badge&logo=ReactNative&labelColor=0D1117)&nbsp;
+![ReactJS](https://img.shields.io/badge/ReactJS-0D1117?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react)
 ![CSS Modules](https://img.shields.io/badge/-CSSModules-0D1117?style=for-the-badge&logo=CSSModules&labelColor=0D1117)&nbsp;
 
 <div align="center">
