@@ -43,7 +43,7 @@
 
 <div align="center">
   <p><b>Visitors Count</b></p>
-  <img src="https://profile-counter.glitch.me/NikRedFox/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=NikRedFox&color=09BC24&style=flat-square&label=VISITORS" alt="NikRedFox" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=16C847&height=120&section=footer"/>
